@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dongkengrc.cn/sitemap.xml
